@@ -13,7 +13,7 @@ The simplest module for pH7CMS made to help developers to understand better how 
 
 ## Author
 
-Pierre-Henry Soria
+[Pierre-Henry Soria](http://ph7.me)
 
 
 ## Contact
